@@ -1,1 +1,2 @@
-web: gunicorn APIwebScrapingPopUp:app 
+
+web: python app.py
